@@ -109,12 +109,12 @@ We may update this Privacy Policy periodically. We will notify you of material c
 
 For privacy-related questions or requests:
 
-**Email**: privacy@townhallapp.com  
-**Address**: TownHall Privacy Team, [Your Business Address]  
-**Phone**: [Your Contact Number]
+**Email**: hello.crevece@gmail.com  
+**Address**: DIFC, Dubai, UAE  
+**Phone**: +971507075016
 
 ### Data Protection Officer
-For EU/GDPR-related inquiries: dpo@townhallapp.com
+For EU/GDPR-related inquiries: hello.crevece@gmail.com
 
 ---
 
