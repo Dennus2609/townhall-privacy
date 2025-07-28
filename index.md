@@ -119,3 +119,29 @@ For EU/GDPR-related inquiries: hello.crevece@gmail.com
 ---
 
 **Note**: This privacy policy is designed to comply with App Store requirements, GDPR, CCPA, and other privacy regulations. Please update contact information and business details before publication. 
+
+## Data Deletion Request
+
+You have the right to request the deletion of your TownHall account and all associated personal data.
+
+### How to Request Deletion
+
+To initiate a data deletion request, please send an email to **hello.crevece@gmail.com** with the subject line "Account Deletion Request". In your email, please include:
+- Your registered email address
+- Your full name as registered in the app
+- Your unique user ID (if known, otherwise we will identify you by email)
+
+### What Data Will Be Deleted
+
+Upon successful verification of your request, we will delete all personal information collected from you, including:
+- Account Information (Name, email address, phone number)
+- Community Information (Address information for delivery and community search purposes)
+- Device Information (Device type, operating system, unique device identifiers)
+- Usage Data (App features used, time spent in app, interaction patterns)
+- Push Notification Tokens
+- Camera and QR Code Data (temporary, not stored)
+
+### Data Retention
+
+We will process your deletion request within 30 days. Please note that some anonymized or aggregated data, which cannot be linked back to you, may be retained for analytical purposes. Additionally, we may retain data as required by law or for legitimate business purposes (e.g., fraud prevention, security, or to comply with legal obligations).
+
